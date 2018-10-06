@@ -23,6 +23,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mentor: The Story of America in Pictures, Vol. 1, No. 35, Serial No. 35
 
   The Contest for North America'
